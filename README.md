@@ -4,5 +4,8 @@ Enhancing Adversarial Transferability with Checkpoints of a Single Model’s Tra
 ## Train models and save checkpoints
 python train.py
 
+Checkpoints can be downloaded from https://drive.google.com/drive/folders/1eEOtZb8dVYsDqeFFjLz96Sxi3Jesj6lN?usp=share_link
+
+
 ## Attack
 python attack.py
